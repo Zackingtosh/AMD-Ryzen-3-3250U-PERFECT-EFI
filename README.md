@@ -10,11 +10,16 @@ No Olarila bloatware and no custom logos are included.
 
 Supported Versions:
 
-.Thaoe26 (beta)
-.Sequoia
-.Sonoma
-.Ventura
-.Monterey
+-Thaoe26 (beta)
+
+-Sequoia
+
+-Sonoma
+
+-Ventura
+
+-Monterey
+
 
 Installation Notes:
 It is strongly recommended to install Monterey first, as other versions have not been fully tested.
