@@ -11,7 +11,7 @@ No Olarila bloatware and no custom logos are included.
 
 Supported Versions:
 
--Thaoe26 (beta)
+-Tahoe26 (beta)
 
 -Sequoia
 
